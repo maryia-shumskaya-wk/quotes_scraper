@@ -43,3 +43,4 @@ dist/
 # Egg files
 *.egg
 .parts/
+/.idea/
